@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textgenerator/static/css/main.f9a4e99a.css",
+    "main.js": "/textgenerator/static/js/main.2de65483.js",
+    "static/js/787.c4b1d2da.chunk.js": "/textgenerator/static/js/787.c4b1d2da.chunk.js",
+    "index.html": "/textgenerator/index.html",
+    "main.f9a4e99a.css.map": "/textgenerator/static/css/main.f9a4e99a.css.map",
+    "main.2de65483.js.map": "/textgenerator/static/js/main.2de65483.js.map",
+    "787.c4b1d2da.chunk.js.map": "/textgenerator/static/js/787.c4b1d2da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a4e99a.css",
+    "static/js/main.2de65483.js"
+  ]
+}
